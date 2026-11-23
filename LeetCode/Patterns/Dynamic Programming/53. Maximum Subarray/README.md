@@ -8,8 +8,8 @@
 Array, Divide and Conquer, Dynamic Programming
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 76.5 MB
 
 ---
 
@@ -17,7 +17,7 @@ Array, Divide and Conquer, Dynamic Programming
 
 Given an integer array  `nums` , find the subarray with the largest sum, and return  *its sum* .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
