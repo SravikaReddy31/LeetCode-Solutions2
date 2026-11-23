@@ -17,7 +17,7 @@ Array, Math, Two Pointers
 
 Given an integer array  `nums` , rotate the array to the right by  `k`  steps, where  `k`  is non-negative.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,2,3,4,5,6,7], k = 3
