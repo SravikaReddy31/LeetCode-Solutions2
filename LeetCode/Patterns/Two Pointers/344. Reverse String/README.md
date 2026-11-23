@@ -19,7 +19,7 @@ Write a function that reverses a string. The input string is given as an array o
 
 You must do this by modifying the input array  [in-place](https://en.wikipedia.org/wiki/In-place_algorithm)  with  `O(1)`  extra memory.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: s = ["h","e","l","l","o"]
