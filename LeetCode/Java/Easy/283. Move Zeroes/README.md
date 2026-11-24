@@ -8,8 +8,8 @@
 Array, Two Pointers
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 47.2 MB
 
 ---
 
@@ -19,7 +19,7 @@ Given an integer array  `nums` , move all  `0` 's to the end of it while maintai
 
 **Note**  that you must do this in-place without making a copy of the array.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [0,1,0,3,12]
