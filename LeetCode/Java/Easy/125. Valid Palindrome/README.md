@@ -8,8 +8,8 @@
 Two Pointers, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 118 ms
+- **Memory:** 47.9 MB
 
 ---
 
@@ -19,7 +19,7 @@ A phrase is a  **palindrome**  if, after converting all uppercase letters into l
 
 Given a string  `s` , return  `true`  *if it is a  **palindrome** , or*  `false`  *otherwise* .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: s = "A man, a plan, a canal: Panama"
