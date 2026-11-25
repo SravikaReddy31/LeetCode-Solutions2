@@ -1,6 +1,6 @@
 # 📝 26. Remove Duplicates from Sorted Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+🔗 [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -40,7 +40,7 @@ for (int i = 0; i < k; i++) {
 
 If all assertions pass, then your solution will be  **accepted** .
 
-**Example 1:**
+OriginalJava **Example 1:**
 
 ```
 Input: nums = [1,1,2]
