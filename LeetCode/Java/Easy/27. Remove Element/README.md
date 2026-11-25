@@ -1,6 +1,6 @@
 # 📝 27. Remove Element (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/remove-element/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/remove-element/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -46,7 +46,7 @@ for (int i = 0; i < actualLength; i++) {
 
 If all assertions pass, then your solution will be  **accepted** .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [3,2,2,3], val = 3
