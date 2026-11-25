@@ -1,6 +1,6 @@
 # 📝 35. Search Insert Position (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/search-insert-position/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/search-insert-position/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 44.1 MB
 
 ---
 
@@ -19,7 +19,7 @@ Given a sorted array of distinct integers and a target value, return the index i
 
 You must write an algorithm with  `O(log n)`  runtime complexity.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,3,5,6], target = 5
