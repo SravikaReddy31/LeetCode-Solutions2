@@ -19,7 +19,7 @@ class Solution {
             }
         }
         if(max3 == Integer.MIN_VALUE) {
-            return max;
+            return (max;
         }
         return max3;
     }
