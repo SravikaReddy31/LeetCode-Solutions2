@@ -1,26 +1,31 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        int max2 = Integer.MIN_VALUE;
-        int max3 = Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++) {
-            if (nums[i] == max || nums[i] == max2 || nums[i] == max3) {
+        long max = Long.MIN_VALUE;
+        long max2 = Long.MIN_VALUE;
+        long max3 = Long.MIN_VALUE;
+        
+        for (int num : nums) {
+            // 1. Skip duplicates so we only track distinct maximums
+            if (num == max || num == max2 || num == max3) {
                 continue;
             }
-            if(nums[i] > max) {
+            
+            if (num > max) {
                 max3 = max2;
                 max2 = max;
-                max = nums[i];
-            } else if(nums[i] > max2) {
+                max = num;
+            } else if (num > max2) {
                 max3 = max2;
-                max2 = nums[i];
-            } else if(nums[i] > max3) {
-                max3 = nums[i];
+                max2 = num;
+            } else if (num > max3) {
+                max3 = num;
             }
         }
-        if(max3 == Integer.MIN_VALUE) {
-            return (int)max;
+        
+        // 2. Check against Long.MIN_VALUE, which can never exist in int[] nums
+        if (max3 == Long.MIN_VALUE) {
+            return (int) max;
         }
-        return (int)max3;
+        return (int) max3;
     }
 }
