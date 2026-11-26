@@ -1,6 +1,6 @@
 # 📝 258. Add Digits (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/add-digits/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/add-digits/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -17,7 +17,7 @@ Math, Simulation, Number Theory
 
 Given an integer  `num` , repeatedly add all its digits until the result has only one digit, and return it.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: num = 38
