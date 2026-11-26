@@ -19,8 +19,8 @@ class Solution {
             }
         }
         if(max3 == Integer.MIN_VALUE) {
-            return (max;
+            return (int)max;
         }
-        return max3;
+        return (int)max3;
     }
 }
