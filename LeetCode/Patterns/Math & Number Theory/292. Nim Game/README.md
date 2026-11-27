@@ -1,6 +1,6 @@
 # 📝 292. Nim Game (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/nim-game/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/nim-game)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
