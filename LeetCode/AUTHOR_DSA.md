@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 17 / 238 (7.1%)
+- **Completed:** 18 / 238 (7.6%)
 
 ---
 
@@ -47,7 +47,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ### 📂 MODULE  2.7: SERIES, FACTORIAL & NUMBER
 - [ ] Factorial Trailing Zeroes
-- [ ] Nim Game
+- [x] [Nim Game](./Java/Easy/292. Nim Game/)
 - [ ] Fibonacci Number
 - [ ] N-th Tribonacci Number
 - [ ] Clumsy Factorial
