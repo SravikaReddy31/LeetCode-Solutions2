@@ -1,6 +1,6 @@
 # 📝 263. Ugly Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/ugly-number/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/ugly-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Math
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 41.9 MB
 
 ---
 
@@ -19,7 +19,7 @@ An  **ugly number**  is a  *positive*  integer which does not have a prime facto
 
 Given an integer  `n` , return  `true`   *if*   `n`   *is an  **ugly number*** .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: n = 6
