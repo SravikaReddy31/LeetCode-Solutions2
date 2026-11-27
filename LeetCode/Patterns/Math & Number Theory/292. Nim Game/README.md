@@ -8,7 +8,7 @@
 Math, Brainteaser, Minimax, Game Theory, Nim Game, Impartial Game
 
 ### 🚀 Performance
-- **Runtime:** 56 ms
+- **Runtime:** 0 ms
 - **Memory:** 40.7 MB
 
 ---
