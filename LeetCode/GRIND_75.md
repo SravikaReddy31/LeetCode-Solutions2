@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 5 / 75 (6.7%)
+- **Completed:** 6 / 75 (8.0%)
 
 ---
 
@@ -22,7 +22,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Container With Most Water
 
 ### 📂 Binary
-- [ ] Sum of Two Integers
+- [x] [Sum of Two Integers](./Java/Medium/371. Sum of Two Integers/)
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [x] [Missing Number](./Java/Easy/268. Missing Number/)
