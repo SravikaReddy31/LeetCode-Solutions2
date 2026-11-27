@@ -1,6 +1,6 @@
 # 📝 412. Fizz Buzz (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/fizz-buzz/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/fizz-buzz/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -26,7 +26,7 @@ Given an integer  `n` , return  *a string array*  `answer`  *( **1-indexed** ) w
 	
 - `answer[i] == i`  (as a string) if none of the above conditions are true.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: n = 3
