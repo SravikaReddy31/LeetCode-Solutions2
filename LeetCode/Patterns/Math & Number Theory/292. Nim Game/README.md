@@ -1,6 +1,6 @@
 # 📝 292. Nim Game (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/nim-game/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/nim-game/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Math, Brainteaser, Minimax, Game Theory, Nim Game, Impartial Game
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 56 ms
+- **Memory:** 40.7 MB
 
 ---
 
@@ -28,7 +28,7 @@ You are playing the following Nim Game with your friend:
 
 Given  `n` , the number of stones in the heap, return  `true`  *if you can win the game assuming both you and your friend play optimally, otherwise return*  `false` .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: n = 4
