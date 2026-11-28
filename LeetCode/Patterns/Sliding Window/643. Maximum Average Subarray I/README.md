@@ -1,6 +1,6 @@
 # 📝 643. Maximum Average Subarray I (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-average-subarray-i/?envType=problem-list-v2&envId=sliding-window)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-average-subarray-i/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -19,7 +19,7 @@ You are given an integer array  `nums`  consisting of  `n`  elements, and an int
 
 Find a contiguous subarray whose  **length is equal to**   `k`  that has the maximum average value and return  *this value* . Any answer with a calculation error less than  `10-5`  will be accepted.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,12,-5,-6,50,3], k = 4
