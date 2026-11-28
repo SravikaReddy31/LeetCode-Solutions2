@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 19 / 238 (8.0%)
+- **Completed:** 20 / 238 (8.4%)
 
 ---
 
@@ -101,7 +101,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Squares of a Sorted Array
 - [x] [Third Maximum Number](./Java/Easy/414. Third Maximum Number/)
 - [ ] Maximum Product of Three Numbers
-- [ ] Largest Number At Least Twice of Others
+- [x] [Largest Number At Least Twice of Others](./Java/Easy/747. Largest Number At Least Twice of Others/)
 - [ ] Smallest Range I
 
 ### 📂 MODULE  3.6: SEARCHING WITHOUT FORMAL BI
